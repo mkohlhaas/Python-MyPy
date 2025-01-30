@@ -7,4 +7,24 @@ requires-python = ">=3.11"
 dependencies = []
 
 [tool.uv.workspace]
-members = ["getting-started", "cheat-sheat", "existing-codebase", "built-in-types", "type-annotations", "kinds-of-types", "class-basics", "annotation-issues", "dynamically-typed", "type-narrowing", "duck-type", "stub-files", "generics", "more-types", "enums", "typed-dict", "finals", "metaclasses", "protocols"]
+members = [
+  "getting-started",
+  "cheat-sheat",
+  "existing-codebase",
+  "built-in-types",
+  "type-annotations",
+  "kinds-of-types",
+  "class-basics",
+  "annotation-issues",
+  "dynamically-typed",
+  "type-narrowing",
+  "duck-type",
+  "stub-files",
+  "generics",
+  "more-types",
+  "enums",
+  "typed-dict",
+  "finals",
+  "metaclasses",
+  "protocols",
+]
