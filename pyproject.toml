@@ -26,5 +26,5 @@ members = [
   "typed-dict",
   "finals",
   "metaclasses",
-  "protocols",
+  "protocols", "variance",
 ]
